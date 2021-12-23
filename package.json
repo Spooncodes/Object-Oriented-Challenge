@@ -1,0 +1,26 @@
+"name": "object-oriented-challenge",
+"version": "1.0.0",
+"description": "Week 10 Object Oriented Challenge",
+"main": "index.js",
+"directories": {
+  "lib": "lib"
+},
+"dependencies": {
+  "inquirer": "^7.3.3",
+  "jest": "^26.6.3"
+},
+"devDependencies": {},
+"scripts": {
+  "test": "jest"
+},
+"repository": {
+  "type": "git",
+  "url": "git+https://github.com/Spooncodes/Object-Oriented-Challenge.git"
+},
+"author": "Anthony Lively",
+"license": "ISC",
+"bugs": {
+  "url": "https://github.com/Spooncodes/Object-Oriented-Challenge/issues"
+},
+"homepage": "https://github.com/Spooncodes/Object-Oriented-Challenge#readme"
+}
