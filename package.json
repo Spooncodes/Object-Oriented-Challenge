@@ -1,4 +1,5 @@
-"name": "object-oriented-challenge",
+{
+"name": "Object-Oriented-Challenge",
 "version": "1.0.0",
 "description": "Week 10 Object Oriented Challenge",
 "main": "index.js",
