@@ -8,7 +8,7 @@ test("Can set school", () => {
 
 test('getTitle() should return "Intern"', () => {
     const testValue = "Intern";
-    const I = new Intern("Foo", 1, "test@test.com", "UCLA");
+    const I = new Intern("Foo", 1, "test@test.com", "UCF");
     expect(I.getTitle()).toBe(testValue);
 });
 
